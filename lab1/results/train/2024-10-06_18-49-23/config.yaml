@@ -1,0 +1,12 @@
+batch_size: 4096
+data_dir: Rosykunai/SGEMM_GPU_performance
+decay_every: 10
+epochs: 100
+in_features: 14
+lr: 2.0e-09
+lr_decay: 0.99
+out_features: 1
+results_path: ..\results\train\
+seed: 123
+shuffle: true
+task: Regression

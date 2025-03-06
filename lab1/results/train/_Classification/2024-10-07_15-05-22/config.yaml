@@ -1,0 +1,10 @@
+data_dir: Rosykunai/SGEMM_GPU_performance
+decay_every: 10
+in_features: 14
+lr: 2.0e-06
+lr_decay: 0.99
+mean: null
+results_path: ..\results\train\
+seed: 123
+steps: 100
+task: Classification
